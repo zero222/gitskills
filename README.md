@@ -1,4 +1,3 @@
 # gitskills
 Creating a new branch is quick & quick merge
-hello 222222
-
+hello world
